@@ -253,6 +253,13 @@ li{
     font-weight: 300;   
 }
 
+/* typewriter */
+.txt-type>.txt {
+    font-family: 'Poiret One', cursive;
+    border-right: 0.2rem solid #777;
+  }
+
+
 /*End header*/
 
 
@@ -443,7 +450,7 @@ li{
 
 .timeline ul{
 
-    border-left: 4px solid yellow;
+    border-left: 4px solid rgb(255, 17, 0);
     border-radius : .8rem;
     background-color : rgba(0,0,0,0.05);
     margin : 0 auto;
