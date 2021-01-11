@@ -1,0 +1,155 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 610px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 536px;
+  height: 329px;
+  margin: 40px auto 0 0;
+}
+
+.u-section-1 .u-map-1 {
+  width: 660px;
+  height: 530px;
+  margin: -466px 0 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 546px;
+  min-height: 356px;
+  margin: -446px auto -7px 31px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 40px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  letter-spacing: 3px;
+  margin: 31px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  letter-spacing: 3px;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 21px;
+  min-height: 16px;
+  width: 123px;
+  min-width: 103px;
+  margin: 10px auto 0 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    margin-top: 177px;
+  }
+
+  .u-section-1 .u-map-1 {
+    width: 556px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 465px;
+    min-height: 339px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-map-1 {
+    width: 452px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 372px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 957px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 471px;
+    height: 337px;
+    margin-top: 93px;
+    margin-left: 4px;
+  }
+
+  .u-section-1 .u-map-1 {
+    height: 536px;
+    width: 506px;
+    margin-top: -67px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 491px;
+    min-height: 334px;
+    margin-top: -843px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 809px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 326px;
+    width: 296px;
+    margin-top: 83px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-map-1 {
+    height: 424px;
+    width: 317px;
+    margin-top: -77px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 316px;
+    width: 316px;
+    margin-top: -705px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
